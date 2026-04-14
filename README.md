@@ -2,7 +2,7 @@ ledger for passing info between machine learning instances like a town bulletin 
 
 base draft by chat
 
-🧠 Algorithm Bulletin Chain (ABC)
+🧠 Algorithm Bulletin Chain (ABC)/blltn
 
 A lightweight blockchain designed as a decentralized bulletin board for algorithms.
 
