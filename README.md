@@ -84,7 +84,7 @@ Each node (algorithm instance):
 
 ⚙️ Installation
 
-git clone https://github.com/yourusername/algorithm-bulletin-chain.git
+git clone https://github.com/wg4466/willwallace-rit.git
 cd algorithm-bulletin-chain
 pip install -r requirements.txt
 
